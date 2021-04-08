@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: cadetblue;
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+}
+.header h1{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.row {
+    background: pink;
+}
+.main{
+    width: 80%;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px #868686;
+    border-radius: 10px;
+    background: white;
+}
